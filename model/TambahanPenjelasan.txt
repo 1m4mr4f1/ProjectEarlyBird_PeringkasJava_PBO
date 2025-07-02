@@ -1,0 +1,5 @@
+Yth. Bapak Dosen,
+
+Seharusnya di folder ini terdapat file bernama `wiki-news-300d-1M.vec`, namun karena ukuran file mencapai sekitar 2 GB, file tersebut tidak dapat diunggah ke GitHub.
+
+Terima kasih.
