@@ -1,5 +1,6 @@
 Yth. Bapak Dosen,
 
-Seharusnya di folder ini terdapat file bernama `wiki-news-300d-1M.vec`, namun karena ukuran file mencapai sekitar 2 GB, file tersebut tidak dapat diunggah ke GitHub.
+Seharusnya di folder ini terdapat file bernama `wiki-news-300d-1M.vec`, namun karena ukuran file mencapai sekitar 2 GB, file tersebut tidak dapat diunggah ke GitHub. dan untuk mencari file wiki, bisa di download di link berikut:
+(https://fasttext.cc/docs/en/english-vectors.html)
 
 Terima kasih.
